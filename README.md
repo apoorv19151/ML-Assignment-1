@@ -11,5 +11,5 @@ Major tasks performed in this assignment are-
 
 * Used PCA (Principal Component Analysis) to reduce the dimensions of the MNIST dataset. Used OVO (One-vs-One) and OVR (One-vs-Rest) with Logistic Regression to predict the labels in MNIST dataset.
 
-* Evaluated the performance of the above models using various techniques like precision, recall, AUC-ROC (implemented from scratch), precision and f1-score.
+* Evaluated the performance of the above models using various techniques like precision, recall, AUC-ROC (implemented from scratch), accuracy and f1-score.
 
